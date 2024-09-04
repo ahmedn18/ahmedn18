@@ -9,6 +9,7 @@ I'm currently pursuing a degree in Computer and Communication Engineering at Ale
 I am currently learning React JS to enhance my front-end development skills. Additionally, I volunteer in the HR department at ACM, where I contribute to fostering a collaborative and productive environment for our team.
 
 Some of my key interests include:
+
 - Competitive programming
 - Web development (front-end focus)
 - People management and change management
@@ -39,5 +40,21 @@ Some of my key interests include:
 - 🧑‍💼 You can call me Nader – it’s easier and more unique!
 - 📚 I love learning about absolutely everything!
 - 🚀 I want to be an entrepreneur
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-nader-9a11262b5">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:es-ahmed.nader2027@alexu.edu.eg">
+    <img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" alt="Email" />
+  </a>
+  <a href="https://x.com/Noodax161">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="Twitter" />
+  </a>
+  <a href="https://github.com/ahmedn18">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
+  </a>
+</p>
+
 
 Feel free to explore my repositories, and let's connect! 😊
