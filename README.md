@@ -1,6 +1,6 @@
 ### Hi there👋, Welcome to you all!
 
-![Cover Image](./githubCover.jpg)
+![Cover Image](./banner_for_github.png)
 
 ## About Me
 
